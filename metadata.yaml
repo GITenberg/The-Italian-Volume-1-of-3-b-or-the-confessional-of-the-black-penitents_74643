@@ -1,5 +1,8 @@
 _repo: The-Italian-Volume-1-of-3-b-or-the-confessional-of-the-black-penitents_74643
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74643-h/images/cover.jpg
 creator:
   author:
     agent_name: Radcliffe, Ann Ward
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1147
     wikipedia: https://en.wikipedia.org/wiki/Ann_Radcliffe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74643#The-Italian-Volume-1-of-3-b-or-the-confessional-of-the-black-penitents
 gutenberg_issued: '2024-10-27'
 gutenberg_type: Text
 identifiers:
